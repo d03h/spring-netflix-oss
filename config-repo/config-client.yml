@@ -1,0 +1,6 @@
+application:
+  name: config-client
+  port: 8080
+test:
+  profile: default
+  address: bangalore

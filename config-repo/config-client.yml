@@ -3,4 +3,4 @@ application:
   port: 8080
 test:
   profile: default
-  address: mumbai
+  address: bangalore
